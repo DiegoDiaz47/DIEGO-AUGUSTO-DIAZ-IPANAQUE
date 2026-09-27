@@ -1,0 +1,6 @@
+{
+  "name": "Ánimo - Bienestar y Motivación Personal",
+  "description": "App de bienestar y motivación personal con frases habladas, selector de estado de ánimo, diario íntimo local y recordatorios programados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
